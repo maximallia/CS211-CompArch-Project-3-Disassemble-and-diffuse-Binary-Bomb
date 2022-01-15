@@ -1,4 +1,4 @@
-# CS211-Profect-3-Disassemble-and-diffuse-Binary-Bomb
+# CS211-CompArch-Profect-3-Disassemble-and-diffuse-Binary-Bomb
 
 Summary:
 
