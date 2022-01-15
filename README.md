@@ -8,3 +8,4 @@ In fact, there is a rumor that Dr. Evil has ensured the bomb will always blow up
 
 The bomb has 9 phases. The phases get progressively harder to defuse, but the expertise you gain as you move from phase to phase should offset this difficulty. 
 
+MORE INFO: pa3.pdf
